@@ -1,28 +1,5 @@
 # Netflix GPT
 
-<<<<<<< HEAD
-
-- Create React App
-- Configured TailwindCSS
-
-
-
-# Features
-- Login/Sign Up
-    - Sign In /Sign up form
-    - redirect to Browse Page
-- Browse (after authentication)
-    - Header
-    - Main Movie
-        - Tailer in Background
-        - Title & Description
-        - MovieSuggestions
-            - MovieLists * N
-- NEtflixGPT
-    - Search Bar
-    - Movie Suggestions
-            
-=======
 A Netflix-inspired movie browsing application with GPT-powered search capabilities. Built using Create React App, TailwindCSS, Firebase, and Redux.
 
 ## Features
@@ -167,4 +144,3 @@ Before starting the project, please add an `.env` file and include the TMDB and 
 ## Conclusion
 
 Netflix GPT is a comprehensive movie browsing application with GPT-powered search functionality, built with modern web technologies and best practices. Enjoy browsing and discovering movies!
->>>>>>> 3b3f8622d4d050af38e81e9c87b13eff6031396f
