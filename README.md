@@ -40,7 +40,7 @@ Before starting the project, please add an `.env` file and include the TMDB and 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/netflix-gpt.git
+   git clone https://github.com/Saquib-Hasnain/NetflixGPT.git
    cd netflix-gpt
    ```
 
