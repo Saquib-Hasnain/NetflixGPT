@@ -4,13 +4,13 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBMdXivn3i0YbqSuVCopKB-pKOXa4Yj6wE",
+  apiKey: "Find your API key",
   authDomain: "netflixgpt-28c00.firebaseapp.com",
   projectId: "netflixgpt-28c00",
   storageBucket: "netflixgpt-28c00.appspot.com",
-  messagingSenderId: "381016159361",
-  appId: "1:381016159361:web:56a335e53f292c8a3c0980",
-  measurementId: "G-X3C2LR0TJW"
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
